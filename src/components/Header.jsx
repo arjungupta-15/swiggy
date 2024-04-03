@@ -7,7 +7,7 @@ const Header = () => {
     <div className='max-w-[1200px] mx-auto border-orange-500'>
      hello
     </div> 
-    <div>
+    <div className='p-[20px]'>
       
     </div>
 
